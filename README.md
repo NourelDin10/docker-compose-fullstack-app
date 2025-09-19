@@ -52,7 +52,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/docker-compose-fullstack-app.git
+   git clone https://github.com/NourelDin10/docker-compose-fullstack-app.git
    cd docker-compose-fullstack-app
    ```
 
