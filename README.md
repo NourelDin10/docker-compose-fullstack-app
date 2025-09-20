@@ -30,7 +30,7 @@ This setup is ideal for learning, prototyping, or bootstrapping small projects w
 │   ├── Dockerfile           # Backend image definition
 │   └── requirements.txt     # Python dependencies
 ├── frontend/                # Static frontend files (HTML, CSS, JS)
-│    ├── index.html            
+│   └── index.html         
 ├── init/
 │   └── init.sql             # Database schema & seed data
 ├── .env                     # Environment variables (configurable)
